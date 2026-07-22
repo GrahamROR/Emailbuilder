@@ -1,0 +1,66 @@
+{
+  "source": "Sunlo scraped ideas uploaded by user",
+  "count": 112,
+  "fields": [
+    "id",
+    "category",
+    "name",
+    "description",
+    "whyItWorks",
+    "ecomTieIn",
+    "suggestedCta",
+    "heroImagePrompt"
+  ],
+  "ideas": [
+    {
+      "id": "snapchat",
+      "category": "Social Media",
+      "name": "Snapchat",
+      "description": "Frame the email like a Snapchat story: a sequence of full-bleed 'snaps' that reveal the offer, capped with a streak counter that rewards repeat opens or purchases.",
+      "whyItWorks": "The reveal mechanic drives scroll depth, and the 'this disappears' framing manufactures urgency without a literal countdown timer.",
+      "ecomTieIn": "Use a streak counter to reward repeat buyers — every order keeps the streak (and the perk) alive.",
+      "suggestedCta": "Tap to view",
+      "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Snapchat. Frame the email like a Snapchat story: a sequence of full-bleed 'snaps' that reveal the offer, capped with a streak counter that rewards repeat opens or purchases.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Disappearing 'story' reveal with a loyalty streak counter. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Tap to view\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+    },
+    {
+      "id": "spotify-playlist",
+      "category": "Social Media",
+      "name": "Spotify Playlist",
+      "description": "Turn the email into a Spotify playlist or 'For You' mix: products become tracks, bundles become playlists, and recommendations feel personally curated.",
+      "whyItWorks": "The familiar music UI gives every item a role in the reader's 'setlist', which is perfect for bundles, drops, or mood-based shopping.",
+      "ecomTieIn": "Name product bundles like playlists — e.g. 'The Airport Outfit Mix' or 'The Sunday Reset Set'.",
+      "suggestedCta": "Play the edit",
+      "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Spotify Playlist. Turn the email into a Spotify playlist or 'For You' mix: products become tracks, bundles become playlists, and recommendations feel personally curated.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Playlist-style shopping edit with product 'tracks'. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Play the edit\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+    },
+    {
+      "id": "youtube-thumbnail",
+      "category": "Social Media",
+      "name": "YouTube Thumbnail",
+      "description": "Build the email like a click-worthy YouTube thumbnail and video page: bold promise, big product visual, playful annotations, and a 'watch next' product row.",
+      "whyItWorks": "Thumbnail language is designed to stop scrolling fast; it helps the hero make one instantly readable promise.",
+      "ecomTieIn": "Use 'watch next' rows to recommend complementary products or next-best sellers.",
+      "suggestedCta": "Watch the drop",
+      "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: YouTube Thumbnail. Build the email like a click-worthy YouTube thumbnail and video page: bold promise, big product visual, playful annotations, and a 'watch next' product row.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Click-worthy thumbnail hero with annotations and a 'watch next' row. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Watch the drop\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+    },
+    {
+      "id": "instagram-carousel",
+      "category": "Social Media",
+      "name": "Instagram Carousel",
+      "description": "Create an email that behaves like a swipeable Instagram carousel: each email section is a 'slide' with a tight hook, one visual, and one takeaway.",
+      "whyItWorks": "Carousel rhythm trains the reader to keep scrolling, while the single-idea-per-section structure keeps the email mobile-friendly.",
+      "ecomTieIn": "Use each slide as a different reason to buy, objection solved, or colourway reveal.",
+      "suggestedCta": "Swipe the edit",
+      "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Instagram Carousel. Create an email that behaves like a swipeable Instagram carousel: each email section is a 'slide' with a tight hook, one visual, and one takeaway.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Swipeable email carousel with one idea per slide. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Swipe the edit\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+    },
+    {
+      "id": "tiktok-trend",
+      "category": "Social Media",
+      "name": "TikTok Trend",
+      "description": "Structure the email around a trend-style reveal: 'POV', 'things that just make sense', or 'things I didn't know I needed until...' adapted for ecommerce.",
+      "whyItWorks": "Trend framing creates instant familiarity and gives the product a cultural reason to exist beyond 'new in'.",
+      "ecomTieIn": "Use trend language to make product benefits feel discovered rather than explained.",
+      "suggestedCta": "See why",
+      "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: TikTok Trend. Structure the email around a trend-style reveal: 'POV', 'things that just make sense', or 'things I didn't know I needed until...' adapted for ecommerce.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Trend-style reveal frame with quick social proof cues. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"See why\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+    }
+  ]
+}
