@@ -1,1 +1,1122 @@
-{"source":"Sunlo scraped ideas uploaded by user","status":"pending_full_import","count":112,"categories":["Apps & Tech","Art Styles & Mediums","Classic & Arcade","Eras & Aesthetics","Format Hijacks","Memes & Internet","Social Media","Sports","Streaming, TV & Film","Video Games"],"ideas":[]}
+[
+  {
+    "category": "Social Media",
+    "idea": "Snapchat",
+    "shortDescription": "Disappearing 'story' reveal with a loyalty streak counter.",
+    "description": "Frame the email like a Snapchat story: a sequence of full-bleed 'snaps' that reveal the offer, capped with a streak counter that rewards repeat opens or purchases.",
+    "whyItWorks": "The reveal mechanic drives scroll depth, and the 'this disappears' framing manufactures urgency without a literal countdown timer.",
+    "ecomTieIn": "Use a streak counter to reward repeat buyers — every order keeps the streak (and the perk) alive.",
+    "suggestedCta": "Tap to view",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Snapchat. Frame the email like a Snapchat story: a sequence of full-bleed 'snaps' that reveal the offer, capped with a streak counter that rewards repeat opens or purchases.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Disappearing 'story' reveal with a loyalty streak counter. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Tap to view\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Social Media",
+    "idea": "Instagram",
+    "shortDescription": "Feed grid + story bubbles; frame a launch as a 'new post'.",
+    "description": "Lay the email out as an IG profile: a 3-up product grid, story bubbles across the top for collections, and a caption-style block with hashtags.",
+    "whyItWorks": "The grid format is naturally scannable and lets you show a whole range above the fold in a layout everyone already knows how to read.",
+    "ecomTieIn": "Announce a drop as a 'new post' — caption it, hashtag it, and let the comments be real customer reviews.",
+    "suggestedCta": "View profile",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Instagram. Lay the email out as an IG profile: a 3-up product grid, story bubbles across the top for collections, and a caption-style block with hashtags.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Feed grid + story bubbles; frame a launch as a 'new post'. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"View profile\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Social Media",
+    "idea": "TikTok",
+    "shortDescription": "Vertical FYP scroll; 'for you' product discovery.",
+    "description": "A single vertical 'For You' feed where each scroll lands on a new product with overlaid caption, sound name, and a like/share rail.",
+    "whyItWorks": "Mimics the most addictive scroll pattern online, so subscribers keep swiping down through your whole feed of products.",
+    "ecomTieIn": "Position picks as 'for you' recommendations — algorithmic curation framing makes any product feel hand-picked.",
+    "suggestedCta": "Add to cart ♥",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: TikTok. A single vertical 'For You' feed where each scroll lands on a new product with overlaid caption, sound name, and a like/share rail.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Vertical FYP scroll; 'for you' product discovery. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Add to cart ♥\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Social Media",
+    "idea": "LinkedIn",
+    "shortDescription": "Mock 'announcement' post; humble-brag testimonial format.",
+    "description": "A deadpan LinkedIn post layout — avatar, 'Thrilled to announce…', reactions and a comment thread — used for a launch or milestone.",
+    "whyItWorks": "The corporate-cringe format is inherently funny and self-aware, which earns goodwill and stands out in a sea of sales emails.",
+    "ecomTieIn": "Frame a restock or milestone as a humble-brag 'thrilled to announce' post, with customer quotes as the comments.",
+    "suggestedCta": "Celebrate this",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: LinkedIn. A deadpan LinkedIn post layout — avatar, 'Thrilled to announce…', reactions and a comment thread — used for a launch or milestone.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Mock 'announcement' post; humble-brag testimonial format. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Celebrate this\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Social Media",
+    "idea": "YouTube",
+    "shortDescription": "Thumbnail + play button; 'watch the drop'.",
+    "description": "A clickbait-perfect YouTube thumbnail (arrow, shocked face, big text) with a play button overlay leading to the launch or hero product.",
+    "whyItWorks": "The play button is the single most clicked shape on the internet — it pulls the eye straight to your CTA.",
+    "ecomTieIn": "Tease a launch as a video premiere — 'watch the drop' — with a thumbnail that makes the click irresistible.",
+    "suggestedCta": "▶ Watch the drop",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: YouTube. A clickbait-perfect YouTube thumbnail (arrow, shocked face, big text) with a play button overlay leading to the launch or hero product.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Thumbnail + play button; 'watch the drop'. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"▶ Watch the drop\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Social Media",
+    "idea": "Pinterest Board",
+    "shortDescription": "Moodboard of pinned products + use-cases.",
+    "description": "A masonry board of 'pins' mixing product shots with lifestyle and use-case imagery, like a curated aspiration board.",
+    "whyItWorks": "Moodboards sell the lifestyle, not just the SKU — perfect for showing how products fit into a customer's world.",
+    "ecomTieIn": "Build a themed board (a season, a room, a routine) and pin your products into the aspiration.",
+    "suggestedCta": "Save this pin",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Pinterest Board. A masonry board of 'pins' mixing product shots with lifestyle and use-case imagery, like a curated aspiration board.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Moodboard of pinned products + use-cases. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Save this pin\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Social Media",
+    "idea": "Reddit",
+    "shortDescription": "Community thread; upvoted reviews as social proof.",
+    "description": "A mock subreddit thread where the top 'upvoted' comments are glowing reviews, complete with awards and karma.",
+    "whyItWorks": "Reddit reads as unfiltered and trustworthy, so customer reviews framed as upvoted comments feel earned, not advertised.",
+    "ecomTieIn": "Turn your best reviews into the top comments of r/[yourcategory] — social proof that feels like a community endorsement.",
+    "suggestedCta": "⬆ Upvote",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Reddit. A mock subreddit thread where the top 'upvoted' comments are glowing reviews, complete with awards and karma.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Community thread; upvoted reviews as social proof. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"⬆ Upvote\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Social Media",
+    "idea": "BeReal",
+    "shortDescription": "'Time to BeReal' unfiltered, authentic angle.",
+    "description": "The dual front/back camera BeReal layout used to show the 'real', behind-the-scenes side of the product or team.",
+    "whyItWorks": "Leans into authenticity fatigue — an unpolished, candid look cuts through over-produced marketing.",
+    "ecomTieIn": "Go behind the scenes — show the unfiltered making, packing or testing of the product.",
+    "suggestedCta": "Post yours",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: BeReal. The dual front/back camera BeReal layout used to show the 'real', behind-the-scenes side of the product or team.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Time to BeReal' unfiltered, authentic angle. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Post yours\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Social Media",
+    "idea": "Snap Streak",
+    "shortDescription": "'Keep your streak' loyalty mechanic.",
+    "description": "A streak flame and day-count built around an ongoing relationship — opens, orders, or check-ins that mustn't break.",
+    "whyItWorks": "Loss aversion is powerful: nobody wants to break a streak, which makes it a strong re-engagement and loyalty driver.",
+    "ecomTieIn": "Reward consistency — keep ordering (or keep opening) to grow a streak that unlocks perks.",
+    "suggestedCta": "Keep the 🔥",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Snap Streak. A streak flame and day-count built around an ongoing relationship — opens, orders, or check-ins that mustn't break.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Keep your streak' loyalty mechanic. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Keep the 🔥\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Apps & Tech",
+    "idea": "iMessage / Text Thread",
+    "shortDescription": "Chat bubbles selling via conversation.",
+    "description": "An email built as a text thread — grey and blue bubbles, typing indicators — that role-plays a conversation about the product.",
+    "whyItWorks": "Chat bubbles are intimate and skimmable; the back-and-forth format keeps the reader following the 'conversation' to the CTA.",
+    "ecomTieIn": "Dramatise a customer's pain point and the product's answer as a relatable text exchange.",
+    "suggestedCta": "Reply now",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: iMessage / Text Thread. An email built as a text thread — grey and blue bubbles, typing indicators — that role-plays a conversation about the product.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Chat bubbles selling via conversation. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Reply now\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Apps & Tech",
+    "idea": "Google Search Results",
+    "shortDescription": "'People also ask' + featured snippet framing.",
+    "description": "A mock search results page where the query is the customer's problem and the featured snippet is your product as the answer.",
+    "whyItWorks": "Answers an exact question the moment it's asked, positioning the product as the literal top result for a customer need.",
+    "ecomTieIn": "Own the question your customers Google — make your product the featured snippet answer.",
+    "suggestedCta": "I'm feeling lucky",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Google Search Results. A mock search results page where the query is the customer's problem and the featured snippet is your product as the answer.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'People also ask' + featured snippet framing. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"I'm feeling lucky\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Apps & Tech",
+    "idea": "Wordle",
+    "shortDescription": "5-letter word game tied to the product or benefit.",
+    "description": "The green/yellow/grey Wordle grid that resolves to a 5-letter word — the product name, a benefit, or a code.",
+    "whyItWorks": "Interactive and instantly recognisable; readers can't help but 'solve' the grid, boosting dwell time.",
+    "ecomTieIn": "Make the day's word a key benefit or the product name — solving it reveals the offer.",
+    "suggestedCta": "Reveal the word",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Wordle. The green/yellow/grey Wordle grid that resolves to a 5-letter word — the product name, a benefit, or a code.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 5-letter word game tied to the product or benefit. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Reveal the word\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Apps & Tech",
+    "idea": "Duolingo",
+    "shortDescription": "Streak-nag reminder energy for abandoned carts.",
+    "description": "The passive-aggressive Duo owl reminder treatment — guilt-trip mascot, streak at risk — repurposed as a nudge.",
+    "whyItWorks": "The 'we miss you / your streak is at risk' tone is famous, funny, and perfectly suited to re-engagement nudges.",
+    "ecomTieIn": "Nudge an abandoned cart with playful guilt — 'your cart misses you' in full Duo-owl energy.",
+    "suggestedCta": "Don't break it",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Duolingo. The passive-aggressive Duo owl reminder treatment — guilt-trip mascot, streak at risk — repurposed as a nudge.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Streak-nag reminder energy for abandoned carts. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Don't break it\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Apps & Tech",
+    "idea": "Uber Eats Tracker",
+    "shortDescription": "Order / delivery progress as a hook.",
+    "description": "The live order-tracker UI — progress dots, ETA, a little map — used to frame the journey toward the offer or shipment.",
+    "whyItWorks": "Progress bars create anticipation and are perfect for order confirmations, shipping updates, or 'almost there' teasers.",
+    "ecomTieIn": "Track the 'order' to delivery, or track a launch's countdown as it moves toward 'arriving now'.",
+    "suggestedCta": "Track order",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Uber Eats Tracker. The live order-tracker UI — progress dots, ETA, a little map — used to frame the journey toward the offer or shipment.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Order / delivery progress as a hook. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Track order\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Apps & Tech",
+    "idea": "Amazon Product Page",
+    "shortDescription": "Star reviews + 'frequently bought together'.",
+    "description": "A faithful product-page layout: gallery, star rating, bullet points, and a 'frequently bought together' bundle row.",
+    "whyItWorks": "Customers already trust this layout to make decisions — borrowing it shortcuts the path to purchase.",
+    "ecomTieIn": "Present a hero product with reviews and a 'frequently bought together' bundle to lift AOV.",
+    "suggestedCta": "Add to cart",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Amazon Product Page. A faithful product-page layout: gallery, star rating, bullet points, and a 'frequently bought together' bundle row.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Star reviews + 'frequently bought together'. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Add to cart\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Apps & Tech",
+    "idea": "Windows 95 / Blue Screen",
+    "shortDescription": "Retro OS 'error / reboot' gag.",
+    "description": "Chunky grey windows, pixel icons and the blue screen of death used as a tongue-in-cheek error or system reboot.",
+    "whyItWorks": "Nostalgic and disruptive — a fake error message hijacks attention and sets up a punchline.",
+    "ecomTieIn": "Stage a playful 'error: you're missing out' BSOD, then reboot into the offer.",
+    "suggestedCta": "Press any key",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Windows 95 / Blue Screen. Chunky grey windows, pixel icons and the blue screen of death used as a tongue-in-cheek error or system reboot.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Retro OS 'error / reboot' gag. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Press any key\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Apps & Tech",
+    "idea": "Boarding Pass / Flight Tracker",
+    "shortDescription": "'Destination' framing for a journey.",
+    "description": "A boarding pass layout — origin, destination, gate, barcode — used to frame the customer's journey toward a result.",
+    "whyItWorks": "Tickets feel exclusive and personal; the destination framing gives any campaign a sense of departure and arrival.",
+    "ecomTieIn": "Frame the journey from problem to result as a flight — 'now boarding' your transformation.",
+    "suggestedCta": "Board now",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Boarding Pass / Flight Tracker. A boarding pass layout — origin, destination, gate, barcode — used to frame the customer's journey toward a result.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Destination' framing for a journey. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Board now\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Apps & Tech",
+    "idea": "Google Maps Route",
+    "shortDescription": "'Fastest route to [benefit]'.",
+    "description": "A maps route layout with a blue line, pins and an ETA, plotting the shortest path from problem to benefit.",
+    "whyItWorks": "Visual wayfinding makes a multi-step value prop feel simple and inevitable.",
+    "ecomTieIn": "Plot the fastest route to a desired outcome, with the product as the recommended route.",
+    "suggestedCta": "Start navigation",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Google Maps Route. A maps route layout with a blue line, pins and an ETA, plotting the shortest path from problem to benefit.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Fastest route to [benefit]'. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Start navigation\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Apps & Tech",
+    "idea": "Weather Forecast",
+    "shortDescription": "'Forecast' framing for trends or seasonal drops.",
+    "description": "A weather-app layout — today's conditions and a 5-day forecast — repurposed to forecast trends, demand or seasonal drops.",
+    "whyItWorks": "Forecasts feel timely and authoritative, ideal for seasonal launches and 'what's coming' teasers.",
+    "ecomTieIn": "Forecast a season or trend — '100% chance of [product]' rolling in this week.",
+    "suggestedCta": "See the forecast",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Weather Forecast. A weather-app layout — today's conditions and a 5-day forecast — repurposed to forecast trends, demand or seasonal drops.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Forecast' framing for trends or seasonal drops. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"See the forecast\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Apps & Tech",
+    "idea": "Apple Watch Rings",
+    "shortDescription": "'Close your rings' goal / streak mechanic.",
+    "description": "The three activity rings used as progress meters toward a goal, a milestone, or a loyalty target.",
+    "whyItWorks": "The visual of incomplete rings creates an itch to close them — great for goals, progress and loyalty.",
+    "ecomTieIn": "Turn loyalty tiers or a routine into rings the customer is one purchase away from closing.",
+    "suggestedCta": "Close your rings",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Apple Watch Rings. The three activity rings used as progress meters toward a goal, a milestone, or a loyalty target.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Close your rings' goal / streak mechanic. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Close your rings\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Streaming, TV & Film",
+    "idea": "Netflix",
+    "shortDescription": "'ORIGINALS' billboard + episode-tile product rows.",
+    "description": "The Netflix home screen — a hero billboard, the red logo treatment, and horizontal rows of 'episode' tiles for products.",
+    "whyItWorks": "Instantly familiar and premium; the row-of-tiles layout is perfect for merchandising categories at a glance.",
+    "ecomTieIn": "Launch a hero product as a 'Sunlo Original', with bestsellers as the 'Top 10 today' row.",
+    "suggestedCta": "▶ Play",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Netflix. The Netflix home screen — a hero billboard, the red logo treatment, and horizontal rows of 'episode' tiles for products.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'ORIGINALS' billboard + episode-tile product rows. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"▶ Play\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Streaming, TV & Film",
+    "idea": "Spotify Wrapped",
+    "shortDescription": "'Wrapped'-style year-in-review; product playlist.",
+    "description": "Bold gradient cards with big stats — top picks, minutes, genres — packaged as a personalised year-in-review or playlist.",
+    "whyItWorks": "Wrapped is the most-shared marketing format of the year; personalised stats feel like a gift, not an ad.",
+    "ecomTieIn": "Recap a customer's year — their top products, total saved — or curate a 'playlist' of recommendations.",
+    "suggestedCta": "See your Wrapped",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Spotify Wrapped. Bold gradient cards with big stats — top picks, minutes, genres — packaged as a personalised year-in-review or playlist.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Wrapped'-style year-in-review; product playlist. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"See your Wrapped\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Streaming, TV & Film",
+    "idea": "Disney+ / HBO",
+    "shortDescription": "Premium prestige-show poster treatment.",
+    "description": "A prestige streaming key-art look — moody hero poster, premium serif title, 'a new original series' framing.",
+    "whyItWorks": "Signals quality and event-status; ideal for premium launches that need to feel like must-see television.",
+    "ecomTieIn": "Treat a flagship launch like a prestige series premiere — coming soon, then streaming now.",
+    "suggestedCta": "Start watching",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Disney+ / HBO. A prestige streaming key-art look — moody hero poster, premium serif title, 'a new original series' framing.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Premium prestige-show poster treatment. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Start watching\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Streaming, TV & Film",
+    "idea": "Movie Poster / One-Sheet",
+    "shortDescription": "Blockbuster credits-block layout.",
+    "description": "A theatrical one-sheet with a dramatic hero image, tagline, and the tiny all-caps credits block at the bottom.",
+    "whyItWorks": "Builds blockbuster anticipation and gives a single product the gravity of a tentpole release.",
+    "ecomTieIn": "Give a launch a tagline and a credits block — 'starring' the product, 'directed by' the team.",
+    "suggestedCta": "Get tickets",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Movie Poster / One-Sheet. A theatrical one-sheet with a dramatic hero image, tagline, and the tiny all-caps credits block at the bottom.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Blockbuster credits-block layout. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Get tickets\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Streaming, TV & Film",
+    "idea": "Wes Anderson",
+    "shortDescription": "Symmetrical pastel, retro typeface.",
+    "description": "Dead-centre symmetry, muted pastel palette, vintage Futura-style type and a whimsical chaptered storybook feel.",
+    "whyItWorks": "The aesthetic is highly distinctive and screenshot-worthy, making an everyday email feel art-directed.",
+    "ecomTieIn": "Stage products in perfectly symmetrical, pastel vignettes with quirky chapter titles.",
+    "suggestedCta": "Chapter one",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Wes Anderson. Dead-centre symmetry, muted pastel palette, vintage Futura-style type and a whimsical chaptered storybook feel.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Symmetrical pastel, retro typeface. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Chapter one\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Streaming, TV & Film",
+    "idea": "Film Noir",
+    "shortDescription": "Moody black & white, dramatic shadows.",
+    "description": "High-contrast monochrome, venetian-blind shadows, hard-boiled narration and a mystery to be solved.",
+    "whyItWorks": "Drama and intrigue pull readers into a story; the mystery framing rewards reading to the end.",
+    "ecomTieIn": "Cast the customer's problem as the case, and the product as the detective who cracks it.",
+    "suggestedCta": "Crack the case",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Film Noir. High-contrast monochrome, venetian-blind shadows, hard-boiled narration and a mystery to be solved.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Moody black & white, dramatic shadows. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Crack the case\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Streaming, TV & Film",
+    "idea": "Nature Documentary",
+    "shortDescription": "Planet-Earth lower-thirds narration.",
+    "description": "Sweeping hero imagery with a hushed, awe-struck narrator voice and lower-third captions describing the 'species'.",
+    "whyItWorks": "The narrated, observational tone is charming and unexpected, turning a product into a creature to be admired.",
+    "ecomTieIn": "Narrate the product 'in its natural habitat' as if observing a rare and majestic species.",
+    "suggestedCta": "Observe closely",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Nature Documentary. Sweeping hero imagery with a hushed, awe-struck narrator voice and lower-third captions describing the 'species'.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Planet-Earth lower-thirds narration. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Observe closely\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Streaming, TV & Film",
+    "idea": "VHS / Be-Kind-Rewind",
+    "shortDescription": "Retro tape, tracking lines, nostalgia.",
+    "description": "Worn VHS aesthetics — tracking static, timecode, 'play' overlays and a rental-store warmth.",
+    "whyItWorks": "Nostalgia is a powerful emotional shortcut; the analog texture stands out against clean modern inboxes.",
+    "ecomTieIn": "Rewind to a 'classic' — relaunch a returning favourite as a cult VHS rerelease.",
+    "suggestedCta": "⏪ Rewind",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: VHS / Be-Kind-Rewind. Worn VHS aesthetics — tracking static, timecode, 'play' overlays and a rental-store warmth.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Retro tape, tracking lines, nostalgia. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"⏪ Rewind\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Streaming, TV & Film",
+    "idea": "End Credits Roll",
+    "shortDescription": "'Starring' credits for the product or team.",
+    "description": "A scrolling end-credits sequence crediting the product, ingredients, team and even the customer.",
+    "whyItWorks": "A satisfying, cinematic close that works beautifully for thank-you, post-purchase and recap emails.",
+    "ecomTieIn": "Roll the credits on a campaign or a customer's journey — everyone who made it possible gets a line.",
+    "suggestedCta": "Watch the credits",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: End Credits Roll. A scrolling end-credits sequence crediting the product, ingredients, team and even the customer.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Starring' credits for the product or team. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Watch the credits\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Streaming, TV & Film",
+    "idea": "Telenovela",
+    "shortDescription": "Over-dramatic storytelling angle.",
+    "description": "Soap-opera melodrama — gasping close-ups, cliffhangers, betrayals — applied to a totally mundane product problem.",
+    "whyItWorks": "Heightened drama over a trivial stakes is reliably funny and keeps readers hooked for the next 'episode'.",
+    "ecomTieIn": "Turn a small everyday problem into a scandalous, dramatic saga the product resolves.",
+    "suggestedCta": "Next episode",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Telenovela. Soap-opera melodrama — gasping close-ups, cliffhangers, betrayals — applied to a totally mundane product problem.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Over-dramatic storytelling angle. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Next episode\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Video Games",
+    "idea": "Minecraft",
+    "shortDescription": "Blocky pixel world; 'craft your [bundle]'.",
+    "description": "A blocky voxel world with pixel textures, crafting-grid layouts and a build-your-own framing.",
+    "whyItWorks": "Universally recognised and inherently modular — the crafting grid is a natural fit for build-a-bundle.",
+    "ecomTieIn": "Let customers 'craft' a bundle by combining items in a crafting grid for a better result.",
+    "suggestedCta": "Craft it",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Minecraft. A blocky voxel world with pixel textures, crafting-grid layouts and a build-your-own framing.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Blocky pixel world; 'craft your [bundle]'. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Craft it\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Video Games",
+    "idea": "The Sims",
+    "shortDescription": "Plumbob + needs bars as benefit meters.",
+    "description": "The green plumbob, build-mode UI and the colour-coded needs bars repurposed as benefit or satisfaction meters.",
+    "whyItWorks": "The needs-bar visual instantly communicates a before/after improvement in a fun, familiar way.",
+    "ecomTieIn": "Show the product filling up the customer's 'needs' bars from red to green.",
+    "suggestedCta": "Fill your needs",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: The Sims. The green plumbob, build-mode UI and the colour-coded needs bars repurposed as benefit or satisfaction meters.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Plumbob + needs bars as benefit meters. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Fill your needs\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Video Games",
+    "idea": "GTA Loading Screen",
+    "shortDescription": "Gradient art + tip bar.",
+    "description": "The iconic stylised character-art collage, bold gradients and the rotating loading-tip bar at the bottom.",
+    "whyItWorks": "Edgy, cool and graphic; the 'loading tip' is a clever vehicle for a product fact or offer.",
+    "ecomTieIn": "Drop product 'loading tips' over a stylised hero collage while the offer 'loads'.",
+    "suggestedCta": "Press start",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: GTA Loading Screen. The iconic stylised character-art collage, bold gradients and the rotating loading-tip bar at the bottom.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Gradient art + tip bar. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Press start\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Video Games",
+    "idea": "Mario",
+    "shortDescription": "Power-up / '1-UP' framing.",
+    "description": "Mushrooms, coins, warp pipes and 1-UPs used to frame products as power-ups that level the customer up.",
+    "whyItWorks": "Cheerful and nostalgic; the power-up metaphor makes benefits feel like instant upgrades.",
+    "ecomTieIn": "Position the product as the power-up that gives the customer an extra life or a level boost.",
+    "suggestedCta": "Grab the 1-UP",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Mario. Mushrooms, coins, warp pipes and 1-UPs used to frame products as power-ups that level the customer up.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Power-up / '1-UP' framing. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Grab the 1-UP\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Video Games",
+    "idea": "Pokemon",
+    "shortDescription": "'Gotta collect 'em all'; product as dex entry.",
+    "description": "Pokedex-style entries with stats and types, and a 'gotta catch 'em all' collection drive across the range.",
+    "whyItWorks": "Collecting is a deep motivator; presenting a range as a set to complete drives multi-item purchase.",
+    "ecomTieIn": "Give each product a 'dex' entry with stats and a type — collect the whole set.",
+    "suggestedCta": "Catch it",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Pokemon. Pokedex-style entries with stats and types, and a 'gotta catch 'em all' collection drive across the range.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Gotta collect 'em all'; product as dex entry. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Catch it\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Video Games",
+    "idea": "Animal Crossing",
+    "shortDescription": "Cozy island; friendly mascot tone.",
+    "description": "A cozy, wholesome island with a cheery mascot, soft palette and a gentle, welcoming voice.",
+    "whyItWorks": "The warm, low-pressure tone is disarming and great for welcome, community and loyalty moments.",
+    "ecomTieIn": "Welcome customers to a cozy 'island' where the mascot introduces the range.",
+    "suggestedCta": "Visit the island",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Animal Crossing. A cozy, wholesome island with a cheery mascot, soft palette and a gentle, welcoming voice.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Cozy island; friendly mascot tone. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Visit the island\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Video Games",
+    "idea": "Fortnite",
+    "shortDescription": "'New drop in the item shop'.",
+    "description": "The daily item-shop grid with rarity colours, timers and 'new' tags, used to merchandise a drop.",
+    "whyItWorks": "Rarity tiers and refresh timers manufacture FOMO and make a restock feel like a limited drop.",
+    "ecomTieIn": "Stock the 'item shop' with today's drop — rarity-tagged and available for a limited time.",
+    "suggestedCta": "Claim the drop",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Fortnite. The daily item-shop grid with rarity colours, timers and 'new' tags, used to merchandise a drop.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'New drop in the item shop'. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Claim the drop\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Video Games",
+    "idea": "Among Us",
+    "shortDescription": "'Find the imposter' problem / solution gag.",
+    "description": "The crewmate cast and emergency-meeting UI used to 'vote out' the imposter — the inferior alternative.",
+    "whyItWorks": "The viral 'who's the imposter' format is playful and sets up a clean us-vs-them comparison.",
+    "ecomTieIn": "Cast the cheap alternative as the imposter among your trustworthy crew of products.",
+    "suggestedCta": "Vote them out",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Among Us. The crewmate cast and emergency-meeting UI used to 'vote out' the imposter — the inferior alternative.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Find the imposter' problem / solution gag. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Vote them out\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Video Games",
+    "idea": "Select Your Fighter",
+    "shortDescription": "Bundle as a character-select screen.",
+    "description": "A fighting-game roster grid where each product is a selectable fighter with stats and a special move.",
+    "whyItWorks": "The roster grid is a fun, competitive way to present a range and let the reader 'pick a side'.",
+    "ecomTieIn": "Turn the range into a character-select screen — each product a fighter with its own stats.",
+    "suggestedCta": "Choose your fighter",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Select Your Fighter. A fighting-game roster grid where each product is a selectable fighter with stats and a special move.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Bundle as a character-select screen. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Choose your fighter\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Video Games",
+    "idea": "Cyberpunk / Synthwave",
+    "shortDescription": "Neon dystopian aesthetic.",
+    "description": "Neon-on-black, glitch type, rain-slick city vibes and a high-tech, dystopian edge.",
+    "whyItWorks": "Bold, futuristic and graphic — perfect for tech, gaming and edgy launches that want to feel ahead.",
+    "ecomTieIn": "Drop the product into a neon future where it's the upgrade everyone's chasing.",
+    "suggestedCta": "Jack in",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Cyberpunk / Synthwave. Neon-on-black, glitch type, rain-slick city vibes and a high-tech, dystopian edge.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Neon dystopian aesthetic. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Jack in\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Video Games",
+    "idea": "Zelda",
+    "shortDescription": "Quest map; 'collect the pieces'.",
+    "description": "An adventure quest map with markers, collectable triforce-style pieces and a heroic journey framing.",
+    "whyItWorks": "The quest-and-collect structure turns a multi-step offer or bundle into an adventure worth completing.",
+    "ecomTieIn": "Send customers on a quest to collect the pieces — complete the set to claim the reward.",
+    "suggestedCta": "Begin the quest",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Zelda. An adventure quest map with markers, collectable triforce-style pieces and a heroic journey framing.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Quest map; 'collect the pieces'. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Begin the quest\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Classic & Arcade",
+    "idea": "Tetris",
+    "shortDescription": "Stack / complete the set mechanic.",
+    "description": "Falling tetromino blocks and clearing lines, used to frame completing a set or stacking a cart.",
+    "whyItWorks": "The satisfying 'complete the line' mechanic maps perfectly onto finishing a bundle or set.",
+    "ecomTieIn": "Stack the cart to clear a line — complete the set and the discount drops in.",
+    "suggestedCta": "Stack your cart",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Tetris. Falling tetromino blocks and clearing lines, used to frame completing a set or stacking a cart.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Stack / complete the set mechanic. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Stack your cart\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Classic & Arcade",
+    "idea": "Candy Crush",
+    "shortDescription": "Match-3, sweet / satisfying angle.",
+    "description": "Glossy match-3 candies, juicy combos and a sweet, satisfying reward loop.",
+    "whyItWorks": "Bright, dopamine-rich visuals feel rewarding and are ideal for treats, sales and 'sweet deal' framing.",
+    "ecomTieIn": "Match three to unlock a sweet deal — line up the products for a satisfying reward.",
+    "suggestedCta": "Match & save",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Candy Crush. Glossy match-3 candies, juicy combos and a sweet, satisfying reward loop.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Match-3, sweet / satisfying angle. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Match & save\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Classic & Arcade",
+    "idea": "Pac-Man",
+    "shortDescription": "Chase the goal, dodge the problem.",
+    "description": "The maze, dots, ghosts and power pellets used to chase a goal while dodging the 'ghosts' of common problems.",
+    "whyItWorks": "A simple, beloved chase mechanic frames the product as the power pellet that turns the tables.",
+    "ecomTieIn": "Chase the benefit through the maze while dodging the problems — the product is your power pellet.",
+    "suggestedCta": "Start chasing",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Pac-Man. The maze, dots, ghosts and power pellets used to chase a goal while dodging the 'ghosts' of common problems.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Chase the goal, dodge the problem. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Start chasing\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Classic & Arcade",
+    "idea": "8-bit Pixel Art",
+    "shortDescription": "Retro pixel products + score.",
+    "description": "Chunky 8-bit pixel renders of products, a HUD score counter and a high-score table.",
+    "whyItWorks": "Pixel art is charming, lightweight and nostalgic — instant retro-gaming personality.",
+    "ecomTieIn": "Render the hero product in glorious 8-bit and rack up a 'high score' of reviews.",
+    "suggestedCta": "Insert coin",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: 8-bit Pixel Art. Chunky 8-bit pixel renders of products, a HUD score counter and a high-score table.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Retro pixel products + score. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Insert coin\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Classic & Arcade",
+    "idea": "Pinball Machine",
+    "shortDescription": "Bounce through the journey.",
+    "description": "A pinball playfield with bumpers, ramps and a score reel, mapping the customer journey as a ball in play.",
+    "whyItWorks": "Energetic and kinetic; the bouncing-ball path is a fun way to walk through features or steps.",
+    "ecomTieIn": "Bounce the customer through the range, racking up points (and benefits) at every bumper.",
+    "suggestedCta": "Launch the ball",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Pinball Machine. A pinball playfield with bumpers, ramps and a score reel, mapping the customer journey as a ball in play.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Bounce through the journey. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Launch the ball\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Classic & Arcade",
+    "idea": "Claw Machine",
+    "shortDescription": "'Win the bundle' mechanic.",
+    "description": "The arcade claw poised over a pile of prizes, framing a bundle or mystery item as a win.",
+    "whyItWorks": "The 'will it grab it?' tension is playful and pairs naturally with mystery boxes and giveaways.",
+    "ecomTieIn": "Drop the claw and win the bundle — every order is a guaranteed grab (no quarters lost).",
+    "suggestedCta": "Drop the claw",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Claw Machine. The arcade claw poised over a pile of prizes, framing a bundle or mystery item as a win.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Win the bundle' mechanic. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Drop the claw\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Classic & Arcade",
+    "idea": "Achievement Unlocked",
+    "shortDescription": "Milestone / loyalty reward.",
+    "description": "The slide-in achievement toast — trophy icon, gamerscore — used to celebrate a milestone or unlock.",
+    "whyItWorks": "Achievement toasts feel earned and rewarding, perfect for loyalty, milestones and post-purchase moments.",
+    "ecomTieIn": "Celebrate a customer milestone with an 'achievement unlocked' and a reward to match.",
+    "suggestedCta": "Claim reward",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Achievement Unlocked. The slide-in achievement toast — trophy icon, gamerscore — used to celebrate a milestone or unlock.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Milestone / loyalty reward. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Claim reward\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Classic & Arcade",
+    "idea": "Loading Bar 99%",
+    "shortDescription": "'Almost there' anticipation / teaser.",
+    "description": "A progress bar stuck tantalisingly at 99%, building anticipation for a launch or restock.",
+    "whyItWorks": "The near-complete bar creates an irresistible 'just one more click' tension — ideal for teasers.",
+    "ecomTieIn": "Tease a drop at 99% loaded — one click from the reader pushes it to 100%.",
+    "suggestedCta": "Finish loading",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Loading Bar 99%. A progress bar stuck tantalisingly at 99%, building anticipation for a launch or restock.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Almost there' anticipation / teaser. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Finish loading\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Classic & Arcade",
+    "idea": "Guitar Hero",
+    "shortDescription": "'Hit the notes' rhythm framing.",
+    "description": "The scrolling note highway and star-power meter, framing actions as notes to nail in time.",
+    "whyItWorks": "Rhythm-game energy is high-tempo and fun, great for hype launches and 'don't miss a beat' urgency.",
+    "ecomTieIn": "Hit every note — don't miss a beat on this drop before star power runs out.",
+    "suggestedCta": "Hit the note",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Guitar Hero. The scrolling note highway and star-power meter, framing actions as notes to nail in time.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Hit the notes' rhythm framing. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Hit the note\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Classic & Arcade",
+    "idea": "Arcade Cabinet",
+    "shortDescription": "'Insert coin to start' retro gag.",
+    "description": "A full arcade cabinet with marquee art, a CRT screen and the blinking 'insert coin' prompt.",
+    "whyItWorks": "The 'insert coin to start' prompt is a charming, interactive-feeling entry point to a campaign.",
+    "ecomTieIn": "Insert a coin to start the sale — the cabinet marquee headlines today's game (offer).",
+    "suggestedCta": "Insert coin",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Arcade Cabinet. A full arcade cabinet with marquee art, a CRT screen and the blinking 'insert coin' prompt.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Insert coin to start' retro gag. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Insert coin\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Sports",
+    "idea": "Trading Card",
+    "shortDescription": "Limited-edition product stat card.",
+    "description": "A collectible sports card — foil border, stats line, rarity stamp and edition number — for a hero product.",
+    "whyItWorks": "Stat cards make products feel collectible and premium, and invite comparison across a 'team'.",
+    "ecomTieIn": "Give the bestseller a foil rookie card with stats, rarity and a limited edition number.",
+    "suggestedCta": "Collect the card",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Trading Card. A collectible sports card — foil border, stats line, rarity stamp and edition number — for a hero product.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Limited-edition product stat card. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Collect the card\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Sports",
+    "idea": "Jersey / Kit",
+    "shortDescription": "'This season's lineup'.",
+    "description": "A kit-reveal layout — home/away shirts, numbers, a sponsor block — framing the range as this season's lineup.",
+    "whyItWorks": "Kit drops are genuine events for fans; the lineup framing makes a new range feel like a season launch.",
+    "ecomTieIn": "Reveal 'this season's lineup' — the new range modelled as home and away kits.",
+    "suggestedCta": "Wear the kit",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Jersey / Kit. A kit-reveal layout — home/away shirts, numbers, a sponsor block — framing the range as this season's lineup.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'This season's lineup'. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Wear the kit\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Sports",
+    "idea": "Scoreboard / Jumbotron",
+    "shortDescription": "Head-to-head comparison.",
+    "description": "A stadium jumbotron with a head-to-head scoreboard pitting the product against the alternative.",
+    "whyItWorks": "Scoreboards make comparisons instantly legible and put your product clearly in the lead.",
+    "ecomTieIn": "Put the product head-to-head with the alternative and let the scoreboard tell the story.",
+    "suggestedCta": "Check the score",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Scoreboard / Jumbotron. A stadium jumbotron with a head-to-head scoreboard pitting the product against the alternative.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Head-to-head comparison. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Check the score\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Sports",
+    "idea": "F1 Pit Wall Telemetry",
+    "shortDescription": "Speed / performance framing.",
+    "description": "Pit-wall data screens — lap times, tyre temps, telemetry traces — framing performance and speed.",
+    "whyItWorks": "Data-rich and high-performance; perfect for products that win on speed, stats or precision.",
+    "ecomTieIn": "Show the product's 'telemetry' — the performance numbers that put it on pole.",
+    "suggestedCta": "Lights out",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: F1 Pit Wall Telemetry. Pit-wall data screens — lap times, tyre temps, telemetry traces — framing performance and speed.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Speed / performance framing. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Lights out\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Sports",
+    "idea": "Olympics Podium",
+    "shortDescription": "Gold / silver / bronze bestsellers.",
+    "description": "A medal podium ranking the top three bestsellers gold, silver and bronze, with a ceremony feel.",
+    "whyItWorks": "A clear ranked podium is a satisfying way to merchandise top sellers and guide the choice.",
+    "ecomTieIn": "Crown the gold, silver and bronze bestsellers on the podium.",
+    "suggestedCta": "Meet the medalists",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Olympics Podium. A medal podium ranking the top three bestsellers gold, silver and bronze, with a ceremony feel.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Gold / silver / bronze bestsellers. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Meet the medalists\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Sports",
+    "idea": "Boxing Fight Poster",
+    "shortDescription": "'Main event' matchup.",
+    "description": "A boxing fight poster — two contenders, 'VS', a tale-of-the-tape and a fight-night date.",
+    "whyItWorks": "The main-event framing builds hype and sets up a dramatic product-vs-problem (or vs-rival) matchup.",
+    "ecomTieIn": "Bill the product vs the problem as the main event, complete with tale of the tape.",
+    "suggestedCta": "Get ringside",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Boxing Fight Poster. A boxing fight poster — two contenders, 'VS', a tale-of-the-tape and a fight-night date.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Main event' matchup. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Get ringside\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Sports",
+    "idea": "Fantasy League Lineup",
+    "shortDescription": "'Draft your' set.",
+    "description": "A fantasy-sports lineup card where the customer drafts products into positions to build a winning team.",
+    "whyItWorks": "Drafting is interactive and strategic — it turns building a bundle into a game of optimisation.",
+    "ecomTieIn": "Let customers draft their dream lineup from the range to build the winning team.",
+    "suggestedCta": "Draft your team",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Fantasy League Lineup. A fantasy-sports lineup card where the customer drafts products into positions to build a winning team.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Draft your' set. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Draft your team\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Sports",
+    "idea": "Golf Scorecard",
+    "shortDescription": "Performance / results framing.",
+    "description": "A golf scorecard tracking 'holes' (steps or results) with par, birdies and a final under-par total.",
+    "whyItWorks": "A clean, sophisticated way to tally results or steps, with a satisfying under-par finish.",
+    "ecomTieIn": "Score the customer's round — every product helps shoot under par on their goal.",
+    "suggestedCta": "Tee off",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Golf Scorecard. A golf scorecard tracking 'holes' (steps or results) with par, birdies and a final under-par total.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Performance / results framing. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Tee off\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Sports",
+    "idea": "WWE Entrance",
+    "shortDescription": "Bestseller's championship entrance.",
+    "description": "Pyro, a title belt and a hyped ring-announcer entrance for the reigning bestseller.",
+    "whyItWorks": "Over-the-top entrance energy makes a product reveal feel like a championship moment.",
+    "ecomTieIn": "Give the bestseller a championship entrance — pyro, belt and all.",
+    "suggestedCta": "Enter the ring",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: WWE Entrance. Pyro, a title belt and a hyped ring-announcer entrance for the reigning bestseller.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Bestseller's championship entrance. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Enter the ring\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Sports",
+    "idea": "Tennis Grand Slam Bracket",
+    "shortDescription": "Products bracket to a winner.",
+    "description": "A knockout bracket where products face off round by round until a single champion is crowned.",
+    "whyItWorks": "Brackets are inherently engaging and a fun way to run a vote, a sale tournament, or crown a winner.",
+    "ecomTieIn": "Bracket the range and let the matchups (or customer votes) crown the champion.",
+    "suggestedCta": "Pick the winner",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Tennis Grand Slam Bracket. A knockout bracket where products face off round by round until a single champion is crowned.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Products bracket to a winner. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Pick the winner\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Memes & Internet",
+    "idea": "Drake Yes/No",
+    "shortDescription": "Old way ❌ / your product ✅.",
+    "description": "The two-panel Drake meme — rejecting the old way on top, approving your product below.",
+    "whyItWorks": "A universally understood comparison format that lands a value prop in one glance.",
+    "ecomTieIn": "Reject the old way, approve the product — the cleanest before/after in meme form.",
+    "suggestedCta": "Choose the upgrade",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Drake Yes/No. The two-panel Drake meme — rejecting the old way on top, approving your product below.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Old way ❌ / your product ✅. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Choose the upgrade\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Memes & Internet",
+    "idea": "Distracted Boyfriend",
+    "shortDescription": "Switching from the alternative.",
+    "description": "The distracted-boyfriend meme labelled to show the customer leaving the old option for your product.",
+    "whyItWorks": "Instantly recognisable and funny; dramatises a switch or upgrade without any hard sell.",
+    "ecomTieIn": "Show the customer's head turned — leaving the tired alternative for the product.",
+    "suggestedCta": "Make the switch",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Distracted Boyfriend. The distracted-boyfriend meme labelled to show the customer leaving the old option for your product.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Switching from the alternative. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Make the switch\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Memes & Internet",
+    "idea": "Expanding Brain",
+    "shortDescription": "Escalating enlightenment.",
+    "description": "The four-panel glowing-brain meme escalating from the basic option to the galaxy-brain product.",
+    "whyItWorks": "The escalating reveal is a satisfying way to build from problem to premium solution.",
+    "ecomTieIn": "Escalate from the obvious choice to the galaxy-brain move: the product.",
+    "suggestedCta": "Ascend",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Expanding Brain. The four-panel glowing-brain meme escalating from the basic option to the galaxy-brain product.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Escalating enlightenment. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Ascend\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Memes & Internet",
+    "idea": "Tier List Ranking",
+    "shortDescription": "S-tier products.",
+    "description": "An S/A/B/C tier-list chart ranking products, with your hero confidently in S-tier.",
+    "whyItWorks": "Tier lists are addictive and debate-sparking; they merchandise a range with a clear hierarchy.",
+    "ecomTieIn": "Rank the range and let the bestseller sit, undisputed, in S-tier.",
+    "suggestedCta": "See the rankings",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Tier List Ranking. An S/A/B/C tier-list chart ranking products, with your hero confidently in S-tier.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: S-tier products. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"See the rankings\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Memes & Internet",
+    "idea": "This Is Fine",
+    "shortDescription": "Relatable 'before' pain point.",
+    "description": "The dog-in-the-burning-room meme used to dramatise the customer's status-quo pain before the fix.",
+    "whyItWorks": "Self-deprecating relatability builds rapport and makes the 'before' state vivid and funny.",
+    "ecomTieIn": "Capture the 'everything's fine' denial of the problem — then offer the way out.",
+    "suggestedCta": "Put out the fire",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: This Is Fine. The dog-in-the-burning-room meme used to dramatise the customer's status-quo pain before the fix.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Relatable 'before' pain point. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Put out the fire\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Memes & Internet",
+    "idea": "Change My Mind",
+    "shortDescription": "Bold opinion hook.",
+    "description": "The campus-table 'change my mind' sign making a bold, confident claim about the product.",
+    "whyItWorks": "A provocative opinion invites engagement and frames the product claim with cheeky confidence.",
+    "ecomTieIn": "Plant a bold flag — '[category] peaked with this product. Change my mind.'",
+    "suggestedCta": "Prove me right",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Change My Mind. The campus-table 'change my mind' sign making a bold, confident claim about the product.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Bold opinion hook. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Prove me right\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Memes & Internet",
+    "idea": "Y2K / Vaporwave",
+    "shortDescription": "Chrome + gradients nostalgia.",
+    "description": "Chrome type, purple-teal gradients, Greek busts and dial-up-era web nostalgia.",
+    "whyItWorks": "A bold, of-the-moment nostalgia aesthetic that pops in the inbox and skews younger.",
+    "ecomTieIn": "Wrap the product in chrome-and-gradient Y2K nostalgia for instant aesthetic cred.",
+    "suggestedCta": "Enter the web",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Y2K / Vaporwave. Chrome type, purple-teal gradients, Greek busts and dial-up-era web nostalgia.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Chrome + gradients nostalgia. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Enter the web\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Memes & Internet",
+    "idea": "Comment Section",
+    "shortDescription": "Unhinged 5-star reviews.",
+    "description": "A scrolling comment section where the (real) customer reviews are the unhinged, all-caps stars of the show.",
+    "whyItWorks": "Comment threads feel authentic and entertaining; great reviews land harder as 'comments' than as quotes.",
+    "ecomTieIn": "Let the comment section do the selling — real five-star reviews, fully unhinged.",
+    "suggestedCta": "Add a comment",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Comment Section. A scrolling comment section where the (real) customer reviews are the unhinged, all-caps stars of the show.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Unhinged 5-star reviews. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Add a comment\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Memes & Internet",
+    "idea": "Two-Button Choice",
+    "shortDescription": "Sweating over which option.",
+    "description": "The sweating-guy two-button meme, both buttons tempting, dramatising an impossible product choice.",
+    "whyItWorks": "Visualises decision paralysis in a funny way — perfect for 'why not both' bundle upsells.",
+    "ecomTieIn": "Sweat the impossible choice between two favourites — then reveal you can have both.",
+    "suggestedCta": "Pick (or get both)",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Two-Button Choice. The sweating-guy two-button meme, both buttons tempting, dramatising an impossible product choice.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Sweating over which option. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Pick (or get both)\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Memes & Internet",
+    "idea": "Nobody: / Me:",
+    "shortDescription": "Relatable behaviour humour.",
+    "description": "The 'Nobody: / Me:' setup-punchline format calling out a relatable customer behaviour.",
+    "whyItWorks": "A concise, native-feeling joke format that earns a smile and a sense of being understood.",
+    "ecomTieIn": "Call out the relatable habit your customers secretly have — then enable it.",
+    "suggestedCta": "Same. Shop it",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Nobody: / Me:. The 'Nobody: / Me:' setup-punchline format calling out a relatable customer behaviour.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Relatable behaviour humour. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Same. Shop it\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Art Styles & Mediums",
+    "idea": "Crayon",
+    "shortDescription": "Hand-coloured childlike charm.",
+    "description": "Waxy crayon textures, scribbled outlines and a gleeful, hand-drawn naivety.",
+    "whyItWorks": "Disarming and warm; the childlike charm stands out against slick, corporate design.",
+    "ecomTieIn": "Hand-colour the product like a kid's masterpiece — charming, imperfect, lovable.",
+    "suggestedCta": "Colour me in",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Crayon. Waxy crayon textures, scribbled outlines and a gleeful, hand-drawn naivety.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Hand-coloured childlike charm. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Colour me in\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Art Styles & Mediums",
+    "idea": "Sketch",
+    "shortDescription": "Pencil / line-art product studies.",
+    "description": "Pencil and line-art studies of the product, like pages from a designer's sketchbook.",
+    "whyItWorks": "Suggests craft and process; ideal for telling a 'how it's made' or design-story.",
+    "ecomTieIn": "Show the product as a designer's sketch — the idea before it became the object.",
+    "suggestedCta": "See the sketch",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Sketch. Pencil and line-art studies of the product, like pages from a designer's sketchbook.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Pencil / line-art product studies. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"See the sketch\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Art Styles & Mediums",
+    "idea": "LEGO",
+    "shortDescription": "Brick-built products + minifig.",
+    "description": "Products rebuilt from LEGO bricks, complete with a minifig mascot and a box-art treatment.",
+    "whyItWorks": "Playful and universally loved; brick-building maps neatly onto bundles and 'build your own'.",
+    "ecomTieIn": "Build the product (and a bundle) brick by brick, minifig included.",
+    "suggestedCta": "Start building",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: LEGO. Products rebuilt from LEGO bricks, complete with a minifig mascot and a box-art treatment.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Brick-built products + minifig. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Start building\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Art Styles & Mediums",
+    "idea": "Pop Art",
+    "shortDescription": "Warhol grid, bold halftone.",
+    "description": "A Warhol-style repeated grid in clashing pop colours with bold halftone dots.",
+    "whyItWorks": "High-impact, graphic and instantly iconic — a single product becomes a gallery piece.",
+    "ecomTieIn": "Repeat the hero product in a four-up Warhol grid of clashing colourways.",
+    "suggestedCta": "Shop the print",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Pop Art. A Warhol-style repeated grid in clashing pop colours with bold halftone dots.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Warhol grid, bold halftone. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Shop the print\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Art Styles & Mediums",
+    "idea": "Cartoon",
+    "shortDescription": "Playful illustrated mascot world.",
+    "description": "A bright, illustrated cartoon world with a mascot guiding the reader through the range.",
+    "whyItWorks": "Friendly characters add warmth and personality, and a mascot gives a campaign a recurring host.",
+    "ecomTieIn": "Let a cartoon mascot tour the customer through the product world.",
+    "suggestedCta": "Join the fun",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Cartoon. A bright, illustrated cartoon world with a mascot guiding the reader through the range.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Playful illustrated mascot world. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Join the fun\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Art Styles & Mediums",
+    "idea": "Watercolor",
+    "shortDescription": "Soft, dreamy washes.",
+    "description": "Soft watercolour washes, bleeding edges and a delicate, artisanal feel.",
+    "whyItWorks": "Elegant and calming; perfect for premium, wellness and gifting moments.",
+    "ecomTieIn": "Render the product in dreamy watercolour washes for a soft, premium feel.",
+    "suggestedCta": "Discover the range",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Watercolor. Soft watercolour washes, bleeding edges and a delicate, artisanal feel.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Soft, dreamy washes. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Discover the range\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Art Styles & Mediums",
+    "idea": "Comic Book / Halftone",
+    "shortDescription": "Panels + speech bubbles.",
+    "description": "Comic-book panels, halftone shading, action lines and speech bubbles telling a mini-story.",
+    "whyItWorks": "Sequential panels guide the eye and turn a value prop into a satisfying short story.",
+    "ecomTieIn": "Tell the product's origin story across comic panels, POW and all.",
+    "suggestedCta": "Read the issue",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Comic Book / Halftone. Comic-book panels, halftone shading, action lines and speech bubbles telling a mini-story.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Panels + speech bubbles. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Read the issue\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Art Styles & Mediums",
+    "idea": "Graffiti / Street Art",
+    "shortDescription": "Bold spray + tags.",
+    "description": "Spray-paint lettering, drips, stencils and tags on a brick-wall backdrop.",
+    "whyItWorks": "Bold, rebellious energy that pops; great for streetwear and youth-skewing drops.",
+    "ecomTieIn": "Tag the drop on the wall — bold, loud and impossible to scroll past.",
+    "suggestedCta": "Hit the streets",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Graffiti / Street Art. Spray-paint lettering, drips, stencils and tags on a brick-wall backdrop.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Bold spray + tags. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Hit the streets\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Art Styles & Mediums",
+    "idea": "Neon Sign",
+    "shortDescription": "Glowing tube lettering.",
+    "description": "Glowing neon-tube lettering and signage against a dark, late-night backdrop.",
+    "whyItWorks": "Light and glow draw the eye in a dark-mode inbox; perfect for night-out and bar/café vibes.",
+    "ecomTieIn": "Light up the headline and the product in glowing neon tubes.",
+    "suggestedCta": "We're open",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Neon Sign. Glowing neon-tube lettering and signage against a dark, late-night backdrop.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Glowing tube lettering. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"We're open\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Art Styles & Mediums",
+    "idea": "Blueprint Schematic",
+    "shortDescription": "'The anatomy of [product]'.",
+    "description": "A technical blueprint — white lines on blue, callouts and measurements — dissecting the product.",
+    "whyItWorks": "Signals engineering and substance; ideal for explaining features and craftsmanship.",
+    "ecomTieIn": "Lay out 'the anatomy of' the product with labelled callouts for every feature.",
+    "suggestedCta": "See the specs",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Blueprint Schematic. A technical blueprint — white lines on blue, callouts and measurements — dissecting the product.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'The anatomy of [product]'. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"See the specs\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Art Styles & Mediums",
+    "idea": "Claymation",
+    "shortDescription": "Tactile clay-render products.",
+    "description": "Soft, fingerprinted clay renders of the product with a handmade, stop-motion charm.",
+    "whyItWorks": "Tactile and adorable; the handmade texture feels warm and premium at once.",
+    "ecomTieIn": "Sculpt the product in tactile clay for a handmade, huggable feel.",
+    "suggestedCta": "Get your hands on it",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Claymation. Soft, fingerprinted clay renders of the product with a handmade, stop-motion charm.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Tactile clay-render products. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Get your hands on it\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Art Styles & Mediums",
+    "idea": "Stained Glass",
+    "shortDescription": "Luminous mosaic.",
+    "description": "A luminous stained-glass mosaic with leaded outlines and jewel-toned light.",
+    "whyItWorks": "Ornate and reverent; lends a product a sense of occasion and artistry.",
+    "ecomTieIn": "Enshrine the hero product in a glowing stained-glass mosaic.",
+    "suggestedCta": "Behold",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Stained Glass. A luminous stained-glass mosaic with leaded outlines and jewel-toned light.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Luminous mosaic. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Behold\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Art Styles & Mediums",
+    "idea": "Embroidery / Cross-Stitch",
+    "shortDescription": "Crafted texture.",
+    "description": "Stitched thread, visible weave and a homespun, crafted texture.",
+    "whyItWorks": "Cozy and tactile; signals heritage, care and handmade quality.",
+    "ecomTieIn": "Stitch the product and message into a crafted, homespun sampler.",
+    "suggestedCta": "Made with care",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Embroidery / Cross-Stitch. Stitched thread, visible weave and a homespun, crafted texture.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Crafted texture. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Made with care\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Art Styles & Mediums",
+    "idea": "Risograph Print",
+    "shortDescription": "Grainy duotone.",
+    "description": "Grainy duotone risograph print with off-register layers and punchy spot colours.",
+    "whyItWorks": "Trendy, tactile and artisanal; a designy look that reads as indie and considered.",
+    "ecomTieIn": "Print the campaign in grainy two-colour riso for instant indie-studio cool.",
+    "suggestedCta": "Get the print",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Risograph Print. Grainy duotone risograph print with off-register layers and punchy spot colours.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Grainy duotone. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Get the print\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Art Styles & Mediums",
+    "idea": "X-Ray / Thermal",
+    "shortDescription": "'See beneath the surface'.",
+    "description": "An x-ray or thermal-camera view revealing the inner workings or 'heat' of the product.",
+    "whyItWorks": "The reveal of what's inside is intriguing and great for proving quality or showing what others hide.",
+    "ecomTieIn": "See beneath the surface — x-ray the product to prove what's really inside.",
+    "suggestedCta": "Look inside",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: X-Ray / Thermal. An x-ray or thermal-camera view revealing the inner workings or 'heat' of the product.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'See beneath the surface'. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Look inside\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Eras & Aesthetics",
+    "idea": "70s Disco",
+    "shortDescription": "Groovy gradients + shine.",
+    "description": "Mirror-ball sparkle, warm groovy gradients, funky type and a Saturday-night-fever glow.",
+    "whyItWorks": "Fun, warm and celebratory; perfect for parties, launches and feel-good moments.",
+    "ecomTieIn": "Throw the product a disco — mirror ball, groovy type, all shine.",
+    "suggestedCta": "Boogie now",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: 70s Disco. Mirror-ball sparkle, warm groovy gradients, funky type and a Saturday-night-fever glow.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Groovy gradients + shine. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Boogie now\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Eras & Aesthetics",
+    "idea": "80s Miami / Synthwave",
+    "shortDescription": "Neon sunset palette.",
+    "description": "Hot-pink-and-cyan neon, palm silhouettes, grid horizons and a synthwave sunset.",
+    "whyItWorks": "A bold, high-energy retro palette that's endlessly screenshot-worthy.",
+    "ecomTieIn": "Drop the product into a neon Miami sunset for instant retro-cool.",
+    "suggestedCta": "Ride the wave",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: 80s Miami / Synthwave. Hot-pink-and-cyan neon, palm silhouettes, grid horizons and a synthwave sunset.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Neon sunset palette. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Ride the wave\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Eras & Aesthetics",
+    "idea": "90s Grunge",
+    "shortDescription": "Collage, tape, scratchy type.",
+    "description": "Torn-paper collage, masking tape, photocopied textures and scratchy distressed type.",
+    "whyItWorks": "Raw and authentic; the zine aesthetic skews alt and stands apart from polished design.",
+    "ecomTieIn": "Tape together a grungy zine spread around the product.",
+    "suggestedCta": "Whatever, shop it",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: 90s Grunge. Torn-paper collage, masking tape, photocopied textures and scratchy distressed type.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Collage, tape, scratchy type. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Whatever, shop it\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Eras & Aesthetics",
+    "idea": "Y2K Chrome",
+    "shortDescription": "Bubbly metallic futurism.",
+    "description": "Liquid-chrome blobs, bubbly type and an optimistic turn-of-the-millennium futurism.",
+    "whyItWorks": "Shiny and playful; a trend-forward look that feels fresh and fun.",
+    "ecomTieIn": "Cast the product in liquid chrome for bubbly, futuristic shine.",
+    "suggestedCta": "Get shiny",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Y2K Chrome. Liquid-chrome blobs, bubbly type and an optimistic turn-of-the-millennium futurism.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Bubbly metallic futurism. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Get shiny\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Eras & Aesthetics",
+    "idea": "Cottagecore",
+    "shortDescription": "Soft botanical, homely.",
+    "description": "Pressed flowers, soft naturals, gingham and a gentle, homely countryside calm.",
+    "whyItWorks": "Warm and aspirational; ideal for natural, handmade and slow-living brands.",
+    "ecomTieIn": "Nest the product in a soft, botanical cottage scene.",
+    "suggestedCta": "Come on in",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Cottagecore. Pressed flowers, soft naturals, gingham and a gentle, homely countryside calm.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Soft botanical, homely. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Come on in\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Eras & Aesthetics",
+    "idea": "Dark Academia",
+    "shortDescription": "Moody, scholarly, serif.",
+    "description": "Old libraries, candlelight, tweed, ink and a moody scholarly serif palette.",
+    "whyItWorks": "Sophisticated and atmospheric; lends a campaign intellect and depth.",
+    "ecomTieIn": "Frame the product as required reading in a candlelit, scholarly study.",
+    "suggestedCta": "Enrol now",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Dark Academia. Old libraries, candlelight, tweed, ink and a moody scholarly serif palette.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Moody, scholarly, serif. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Enrol now\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Eras & Aesthetics",
+    "idea": "Retro Diner",
+    "shortDescription": "Chrome + checkerboard + neon.",
+    "description": "Chrome trim, checkerboard floors, neon signage and a 50s milkshake-bar warmth.",
+    "whyItWorks": "Cheerful Americana nostalgia, perfect for food, drink and feel-good promos.",
+    "ecomTieIn": "Serve the product up diner-style with a menu board and neon sign.",
+    "suggestedCta": "Order up",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Retro Diner. Chrome trim, checkerboard floors, neon signage and a 50s milkshake-bar warmth.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Chrome + checkerboard + neon. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Order up\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Eras & Aesthetics",
+    "idea": "Wild West Wanted Poster",
+    "shortDescription": "'Wanted' gag.",
+    "description": "An aged 'WANTED' poster — woodcut type, a reward and a sepia parchment texture.",
+    "whyItWorks": "The wanted framing is a fun hook for a hero product, a deal, or a tongue-in-cheek bounty.",
+    "ecomTieIn": "Put the bestseller on a 'wanted' poster with a reward for whoever grabs it.",
+    "suggestedCta": "Claim the bounty",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Wild West Wanted Poster. An aged 'WANTED' poster — woodcut type, a reward and a sepia parchment texture.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Wanted' gag. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Claim the bounty\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Eras & Aesthetics",
+    "idea": "Vintage Travel Poster",
+    "shortDescription": "'Visit [destination / benefit]'.",
+    "description": "A mid-century travel poster — bold flat shapes, a glamorous destination, 'visit…' lettering.",
+    "whyItWorks": "Aspirational and beautiful; reframes a benefit as a glamorous destination worth the trip.",
+    "ecomTieIn": "Sell the benefit as a destination — 'visit' the result the product delivers.",
+    "suggestedCta": "Book the trip",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Vintage Travel Poster. A mid-century travel poster — bold flat shapes, a glamorous destination, 'visit…' lettering.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Visit [destination / benefit]'. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Book the trip\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Eras & Aesthetics",
+    "idea": "Old Newspaper Front Page",
+    "shortDescription": "'BREAKING' headline.",
+    "description": "A vintage front page — masthead, columns, a giant 'BREAKING' headline and a grainy photo.",
+    "whyItWorks": "The newspaper format lends authority and urgency to an announcement.",
+    "ecomTieIn": "Break the news of a launch as the front-page headline of the day.",
+    "suggestedCta": "Read all about it",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Old Newspaper Front Page. A vintage front page — masthead, columns, a giant 'BREAKING' headline and a grainy photo.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'BREAKING' headline. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Read all about it\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Eras & Aesthetics",
+    "idea": "Mid-Century Modern",
+    "shortDescription": "Clean retro geometry.",
+    "description": "Atomic-age geometry, warm muted tones and clean, confident mid-century shapes.",
+    "whyItWorks": "Timeless and tasteful; signals design-led quality without trying too hard.",
+    "ecomTieIn": "Set the product in clean mid-century geometry for understated, designy class.",
+    "suggestedCta": "Explore the range",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Mid-Century Modern. Atomic-age geometry, warm muted tones and clean, confident mid-century shapes.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Clean retro geometry. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Explore the range\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Eras & Aesthetics",
+    "idea": "Art Deco",
+    "shortDescription": "Gold geometric luxury.",
+    "description": "Gold geometric fans, symmetrical motifs and a Gatsby-era luxe palette.",
+    "whyItWorks": "Opulent and premium; perfect for luxury launches and celebratory moments.",
+    "ecomTieIn": "Wrap the product in gilded Art Deco geometry for instant luxury.",
+    "suggestedCta": "Step inside",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Art Deco. Gold geometric fans, symmetrical motifs and a Gatsby-era luxe palette.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Gold geometric luxury. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Step inside\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Format Hijacks",
+    "idea": "Nutrition / Spec Label",
+    "shortDescription": "'Ingredients / specs' panel.",
+    "description": "A nutrition-facts or spec panel listing the product's 'ingredients' — features, values or benefits.",
+    "whyItWorks": "A familiar, no-nonsense format that communicates substance and transparency at a glance.",
+    "ecomTieIn": "List what the product is really made of — benefits and values as the nutrition panel.",
+    "suggestedCta": "Read the label",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Nutrition / Spec Label. A nutrition-facts or spec panel listing the product's 'ingredients' — features, values or benefits.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Ingredients / specs' panel. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Read the label\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Format Hijacks",
+    "idea": "Rx Prescription Pad",
+    "shortDescription": "'Prescribed for you' framing.",
+    "description": "A doctor's prescription pad 'prescribing' the product as the remedy for a customer's need.",
+    "whyItWorks": "The prescription framing implies authority and personalisation — the product as the recommended cure.",
+    "ecomTieIn": "Prescribe the product for the customer's exact symptom — directions included.",
+    "suggestedCta": "Fill prescription",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Rx Prescription Pad. A doctor's prescription pad 'prescribing' the product as the remedy for a customer's need.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Prescribed for you' framing. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Fill prescription\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Format Hijacks",
+    "idea": "Periodic Table",
+    "shortDescription": "'Elements of' the range.",
+    "description": "A periodic-table grid where each product is an element with a symbol, number and group.",
+    "whyItWorks": "An elegant system for organising a large range and implying it's complete and scientific.",
+    "ecomTieIn": "Lay out 'the elements of' the range as a periodic table of products.",
+    "suggestedCta": "Explore the table",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Periodic Table. A periodic-table grid where each product is an element with a symbol, number and group.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Elements of' the range. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Explore the table\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Format Hijacks",
+    "idea": "Recipe Card",
+    "shortDescription": "'Recipe for [outcome]'.",
+    "description": "A recipe card — ingredients list and method steps — for achieving a desired outcome with the product.",
+    "whyItWorks": "Recipes are approachable and actionable; they frame a routine or result as easy to follow.",
+    "ecomTieIn": "Share the recipe for a result — the product as the key ingredient.",
+    "suggestedCta": "Get cooking",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Recipe Card. A recipe card — ingredients list and method steps — for achieving a desired outcome with the product.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Recipe for [outcome]'. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Get cooking\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Format Hijacks",
+    "idea": "IKEA Assembly Manual",
+    "shortDescription": "'How to assemble [the set]'.",
+    "description": "Wordless IKEA-style assembly diagrams showing how to 'build' a bundle or routine step by step.",
+    "whyItWorks": "The deadpan diagram style is charming and universally understood — perfect for explaining a set.",
+    "ecomTieIn": "Diagram how the bundle 'assembles' into the complete set, no words needed.",
+    "suggestedCta": "Assemble it",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: IKEA Assembly Manual. Wordless IKEA-style assembly diagrams showing how to 'build' a bundle or routine step by step.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'How to assemble [the set]'. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Assemble it\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Format Hijacks",
+    "idea": "Lab Report",
+    "shortDescription": "Clinical results / proof presentation.",
+    "description": "A clinical lab report presenting results, percentages and a verdict, backing up product claims.",
+    "whyItWorks": "Data and a clinical tone build credibility for performance and results-driven claims.",
+    "ecomTieIn": "Present the proof — the product's results written up as a clinical lab report.",
+    "suggestedCta": "View results",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Lab Report. A clinical lab report presenting results, percentages and a verdict, backing up product claims.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Clinical results / proof presentation. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"View results\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Format Hijacks",
+    "idea": "Museum Placard",
+    "shortDescription": "Products as fine-art exhibits.",
+    "description": "Gallery wall and museum placards presenting products as curated fine-art exhibits.",
+    "whyItWorks": "Elevates everyday products to art-status and slows the reader into 'gallery' mode.",
+    "ecomTieIn": "Exhibit the range like museum pieces, each with its own curatorial placard.",
+    "suggestedCta": "Tour the exhibit",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Museum Placard. Gallery wall and museum placards presenting products as curated fine-art exhibits.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Products as fine-art exhibits. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Tour the exhibit\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Format Hijacks",
+    "idea": "Tarot Card",
+    "shortDescription": "'Draw your' destiny gag.",
+    "description": "Ornate tarot cards the customer 'draws' to reveal a product, a fortune, or an offer.",
+    "whyItWorks": "Mystical and interactive; the draw-a-card reveal is irresistible and personalised-feeling.",
+    "ecomTieIn": "Let the customer draw a card — their fortune (and the matching product) revealed.",
+    "suggestedCta": "Draw your card",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Tarot Card. Ornate tarot cards the customer 'draws' to reveal a product, a fortune, or an offer.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Draw your' destiny gag. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Draw your card\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Format Hijacks",
+    "idea": "Horoscope",
+    "shortDescription": "Weekly 'reading' framing.",
+    "description": "A weekly horoscope column matching each star sign to a product recommendation or message.",
+    "whyItWorks": "Personalised by sign, horoscopes drive engagement and give a recurring weekly content hook.",
+    "ecomTieIn": "Match each star sign to its perfect product in this week's reading.",
+    "suggestedCta": "Read your stars",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Horoscope. A weekly horoscope column matching each star sign to a product recommendation or message.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Weekly 'reading' framing. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Read your stars\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Format Hijacks",
+    "idea": "Passport Stamp Page",
+    "shortDescription": "'Collect the stamps' loyalty.",
+    "description": "A passport page filling with stamps as the customer reaches milestones or tries the range.",
+    "whyItWorks": "The stamp-collection visual makes loyalty progress tangible and rewarding.",
+    "ecomTieIn": "Stamp the passport with every order — collect them all to unlock the reward.",
+    "suggestedCta": "Get stamped",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Passport Stamp Page. A passport page filling with stamps as the customer reaches milestones or tries the range.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Collect the stamps' loyalty. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Get stamped\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Format Hijacks",
+    "idea": "Vinyl Record Sleeve",
+    "shortDescription": "'Now playing' framing.",
+    "description": "A record sleeve and tracklist treatment framing the range as an album that's 'now playing'.",
+    "whyItWorks": "Music nostalgia is warm and cool at once; the tracklist is a fun way to list a collection.",
+    "ecomTieIn": "Drop the new range as an album — tracklist of products, now playing.",
+    "suggestedCta": "Play side A",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Vinyl Record Sleeve. A record sleeve and tracklist treatment framing the range as an album that's 'now playing'.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Now playing' framing. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Play side A\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Format Hijacks",
+    "idea": "Tasting Menu",
+    "shortDescription": "'Courses' / curated set framing.",
+    "description": "A fine-dining tasting menu presenting the range as curated courses with pairings.",
+    "whyItWorks": "Implies curation and premium care; perfect for sets, bundles and gifting.",
+    "ecomTieIn": "Plate the range as a curated tasting menu, course by course.",
+    "suggestedCta": "Reserve a table",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Tasting Menu. A fine-dining tasting menu presenting the range as curated courses with pairings.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: 'Courses' / curated set framing. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Reserve a table\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Format Hijacks",
+    "idea": "Crossword / Word Search",
+    "shortDescription": "Interactive puzzle.",
+    "description": "A crossword or word-search puzzle where the answers are product names, benefits or a code.",
+    "whyItWorks": "Puzzles are genuinely interactive and boost dwell time as readers play along.",
+    "ecomTieIn": "Hide the product names (and a code) in a puzzle the reader has to solve.",
+    "suggestedCta": "Solve it",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Crossword / Word Search. A crossword or word-search puzzle where the answers are product names, benefits or a code.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Interactive puzzle. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Solve it\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  },
+  {
+    "category": "Format Hijacks",
+    "idea": "Bingo Card",
+    "shortDescription": "Gamified 'bingo' grid.",
+    "description": "A bingo card grid of products, behaviours or wishes the customer marks off.",
+    "whyItWorks": "The mark-it-off grid is playful and inclusive — readers love spotting their own squares.",
+    "ecomTieIn": "Lay out a bingo card of the range — get a line for a reward.",
+    "suggestedCta": "Mark your card",
+    "heroImagePrompt": "Create a portrait hero image for a marketing email — 600px wide, 3:4 ratio (about 600 x 800px).\n\nSTYLE: Bingo Card. A bingo card grid of products, behaviours or wishes the customer marks off.\n\nSUBJECT: Make [ATTACH PRODUCT PHOTO] from [BRAND NAME] the unmistakable hero, front and centre, above the fold. Stay on-brand for [BRAND NAME] — use its logo and brand colours ([BRAND COLOURS]).\n\nCOMPOSITION: Gamified 'bingo' grid. Leave clean negative space at the top for a headline and at the bottom for a CTA button.\n\nON-IMAGE TEXT (optional): headline \"[YOUR HEADLINE]\"; CTA button \"Mark your card\".\n\nTECHNICAL: portrait 3:4, sharp focus on the product, mobile-inbox friendly, no watermark, no stock-photo feel, do not invent logos or brand names. Attach the brand's product photo / assets before generating."
+  }
+]
